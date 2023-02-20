@@ -1,7 +1,4 @@
-## Project name
-
-Digital Huarong Road
-[Online experience] (http://www.h5love.cn/pingtu/)
+## Vue3 Puzzle Game
 
 ## Stack
 
